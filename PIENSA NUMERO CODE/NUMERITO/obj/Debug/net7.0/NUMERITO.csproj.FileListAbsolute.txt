@@ -1,0 +1,15 @@
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\bin\Debug\net7.0\NUMERITO.exe
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\bin\Debug\net7.0\NUMERITO.deps.json
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\bin\Debug\net7.0\NUMERITO.runtimeconfig.json
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\bin\Debug\net7.0\NUMERITO.dll
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\bin\Debug\net7.0\NUMERITO.pdb
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.csproj.AssemblyReference.cache
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.AssemblyInfoInputs.cache
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.AssemblyInfo.cs
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.csproj.CoreCompileInputs.cache
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.dll
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\refint\NUMERITO.dll
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.pdb
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\NUMERITO.genruntimeconfig.cache
+C:\Users\Dorjee\Desktop\FP1\PIENSA NUMERO CODE\NUMERITO\obj\Debug\net7.0\ref\NUMERITO.dll
